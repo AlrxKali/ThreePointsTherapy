@@ -1,0 +1,16 @@
+C:\Users\kali\Documents\Untitled Folder\ThreePoints\ThreePoints\ThreePoints\bin\Debug\netstandard2.0\ThreePoints.deps.json
+C:\Users\kali\Documents\Untitled Folder\ThreePoints\ThreePoints\ThreePoints\bin\Debug\netstandard2.0\ThreePoints.dll
+C:\Users\kali\Documents\Untitled Folder\ThreePoints\ThreePoints\ThreePoints\bin\Debug\netstandard2.0\ThreePoints.pdb
+C:\Users\kali\Documents\Untitled Folder\ThreePoints\ThreePoints\ThreePoints\obj\Debug\netstandard2.0\ThreePoints.csproj.AssemblyReference.cache
+C:\Users\kali\Documents\Untitled Folder\ThreePoints\ThreePoints\ThreePoints\obj\Debug\netstandard2.0\ThreePoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kali\Documents\Untitled Folder\ThreePoints\ThreePoints\ThreePoints\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kali\Documents\Untitled Folder\ThreePoints\ThreePoints\ThreePoints\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kali\Documents\Untitled Folder\ThreePoints\ThreePoints\ThreePoints\obj\Debug\netstandard2.0\ThreePoints.AssemblyInfoInputs.cache
+C:\Users\kali\Documents\Untitled Folder\ThreePoints\ThreePoints\ThreePoints\obj\Debug\netstandard2.0\ThreePoints.AssemblyInfo.cs
+C:\Users\kali\Documents\Untitled Folder\ThreePoints\ThreePoints\ThreePoints\obj\Debug\netstandard2.0\ThreePoints.csproj.CoreCompileInputs.cache
+C:\Users\kali\Documents\Untitled Folder\ThreePoints\ThreePoints\ThreePoints\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kali\Documents\Untitled Folder\ThreePoints\ThreePoints\ThreePoints\obj\Debug\netstandard2.0\ThreePoints.dll
+C:\Users\kali\Documents\Untitled Folder\ThreePoints\ThreePoints\ThreePoints\obj\Debug\netstandard2.0\refint\ThreePoints.dll
+C:\Users\kali\Documents\Untitled Folder\ThreePoints\ThreePoints\ThreePoints\obj\Debug\netstandard2.0\ThreePoints.pdb
+C:\Users\kali\Documents\Untitled Folder\ThreePoints\ThreePoints\ThreePoints\obj\Debug\netstandard2.0\ref\ThreePoints.dll
+C:\Users\kali\Documents\Untitled Folder\ThreePoints\ThreePoints\ThreePoints\obj\Debug\netstandard2.0\WelcomePage.xaml.g.cs
