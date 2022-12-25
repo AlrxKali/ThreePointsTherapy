@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints.Android\\ThreePoints.Android.csproj": {}
+    "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints.Android\\ThreePoints.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints.Android\\ThreePoints.Android.csproj": {
+    "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints.Android\\ThreePoints.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints.Android\\ThreePoints.Android.csproj",
+        "projectUniqueName": "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints.Android\\ThreePoints.Android.csproj",
         "projectName": "ThreePoints.Android",
-        "projectPath": "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints.Android\\ThreePoints.Android.csproj",
+        "projectPath": "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints.Android\\ThreePoints.Android.csproj",
         "packagesPath": "C:\\Users\\kali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints.Android\\obj\\",
+        "outputPath": "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -34,8 +34,8 @@
         "frameworks": {
           "monoandroid13.0": {
             "projectReferences": {
-              "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints\\ThreePoints.csproj": {
-                "projectPath": "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints\\ThreePoints.csproj"
+              "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints\\ThreePoints.csproj": {
+                "projectPath": "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints\\ThreePoints.csproj"
               }
             }
           }
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints\\ThreePoints.csproj": {
+    "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints\\ThreePoints.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints\\ThreePoints.csproj",
+        "projectUniqueName": "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints\\ThreePoints.csproj",
         "projectName": "ThreePoints",
-        "projectPath": "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints\\ThreePoints.csproj",
+        "projectPath": "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints\\ThreePoints.csproj",
         "packagesPath": "C:\\Users\\kali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints\\obj\\",
+        "outputPath": "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

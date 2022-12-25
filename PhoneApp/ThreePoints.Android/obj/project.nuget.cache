@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xpNhSw176eRcul+vzmg/2Kcge8IuZe/KQS24rw1Bd6tp6oj4GG+/FV20MsCLHAoy0geXY3kkyze0scy1rxZsew==",
+  "dgSpecHash": "HGt1wtrzjCtXSXkAvoZe0hWiAIo5uw8rfCd22vJVB1WffpOUX2kC24HF2q3nBVLATEn1ktMZ/7nEkO1d74j45Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints.Android\\ThreePoints.Android.csproj",
+  "projectFilePath": "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints.Android\\ThreePoints.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kali\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\kali\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using ThreePoints.Views;
 using Xamarin.Forms;
 
 namespace ThreePoints
@@ -29,7 +30,7 @@ namespace ThreePoints
             sub.Children.Add(splashImage);
 
             //this.BackgroundColor = Color.FromHex("#429de3");
-            this.Content = sub;
+            Content = sub;
 
         }
 
@@ -41,7 +42,7 @@ namespace ThreePoints
             await splashImage.ScaleTo(0.9, 1500, Easing.Linear);
             await splashImage.ScaleTo(150, 1200, Easing.Linear);
 
-            Application.Current.MainPage = new NavigationPage(new WelcomePage());
+            Application.Current.MainPage = new NavigationPage(new LoginPage());
         }
     }
 }

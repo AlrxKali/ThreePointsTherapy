@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HGOEUE68Okcmoa3vkG5EgJKKThBDB6Abe8llEfsIVpBos0rCeOcKTl3IDyPp53wmQa+th3tSJ2Vg2J27vcSCNg==",
+  "dgSpecHash": "zjlwN9E6obMifkb3ItbunqSbt7CU66iGc/U1/hZ21OuABihn5jo0j183Ne9VyErMzTpUEYa8CAVhYeFfW7b79g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints.iOS\\ThreePoints.iOS.csproj",
+  "projectFilePath": "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints.iOS\\ThreePoints.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kali\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\kali\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",

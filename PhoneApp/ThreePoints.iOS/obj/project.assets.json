@@ -1069,11 +1069,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints.iOS\\ThreePoints.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints.iOS\\ThreePoints.iOS.csproj",
       "projectName": "ThreePoints.iOS",
-      "projectPath": "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints.iOS\\ThreePoints.iOS.csproj",
+      "projectPath": "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints.iOS\\ThreePoints.iOS.csproj",
       "packagesPath": "C:\\Users\\kali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints.iOS\\obj\\",
+      "outputPath": "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1096,8 +1096,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints\\ThreePoints.csproj": {
-              "projectPath": "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints\\ThreePoints.csproj"
+            "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints\\ThreePoints.csproj": {
+              "projectPath": "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints\\ThreePoints.csproj"
             }
           }
         }

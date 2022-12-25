@@ -83,7 +83,9 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\speech.png" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ThreePoints\ThreePoints.csproj">
       <Project>{1A978F52-7F70-4FD2-B3E1-3DC98164EB7C}</Project>

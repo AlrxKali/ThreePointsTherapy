@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y0wlbswtw/CbmIh7AmjZCtlY+zv0SF06mBahwINvdjhON8JdTDHSyudhlZGVwBiOzoDdDyUOCNIVGY7B1YEkqw==",
+  "dgSpecHash": "0enTaCHG84z8z5kVKIE9bCT33ft4G2c9J+g+4vy0NtjiJxrwSOLuUW+JCGMjM3kY5NH5BJrgEAG3PWX3d6na2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kali\\Documents\\Untitled Folder\\ThreePoints\\ThreePoints\\ThreePoints\\ThreePoints.csproj",
+  "projectFilePath": "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints\\ThreePoints.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kali\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\kali\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
