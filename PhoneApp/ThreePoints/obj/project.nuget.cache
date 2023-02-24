@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0enTaCHG84z8z5kVKIE9bCT33ft4G2c9J+g+4vy0NtjiJxrwSOLuUW+JCGMjM3kY5NH5BJrgEAG3PWX3d6na2w==",
+  "dgSpecHash": "hXiwXVDy00w7Hg9xHk9tI1PBa+f964FcblMxv+RlbdZGmPx18C009N9NR3R+nFxGp0ISgPuRkO3unLxGGaZVDw==",
   "success": true,
   "projectFilePath": "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints\\ThreePoints.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kali\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\kali\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\kali\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
     "C:\\Users\\kali\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\kali\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\kali\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"

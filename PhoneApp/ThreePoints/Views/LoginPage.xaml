@@ -5,13 +5,15 @@
              BackgroundColor="#112B47">
     <ContentPage.Content>
         <StackLayout Padding="40" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
-            <Image Source="speech.png"
+            <!--<Image Source="speech.png"
                    WidthRequest="180"
-                   HeightRequest="180"></Image>
-            <Entry Placeholder="Username"
+                   HeightRequest="180"></Image>-->
+            <Entry x:Name="txtUserName"
+                   Placeholder="Username"
                    TextColor="white"
                    PlaceholderColor="Gray"></Entry>
-            <Entry Placeholder="Password" 
+            <Entry x:Name="txtPassword" 
+                   Placeholder="Password" 
                    IsPassword="True" 
                    TextColor="White" 
                    PlaceholderColor="Gray"></Entry>
@@ -21,7 +23,8 @@
                     BorderColor="White"
                     BackgroundColor="Transparent"
                     BorderWidth="1.5"
-                    CornerRadius="50"></Button>
+                    CornerRadius="50"
+                    Clicked="OnLoginClicked"></Button>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zjlwN9E6obMifkb3ItbunqSbt7CU66iGc/U1/hZ21OuABihn5jo0j183Ne9VyErMzTpUEYa8CAVhYeFfW7b79g==",
+  "dgSpecHash": "BlL7Y3lfQB3VGZy4Gws75fq7MbOGCDLmXRVsbr/dG9K6Lrv3zcJv9eFmrBP++snMvQzUPhKMiIr0e2H0XsfAJA==",
   "success": true,
   "projectFilePath": "C:\\Users\\kali\\Documents\\Script\\ThreePointsTherapy\\PhoneApp\\ThreePoints.iOS\\ThreePoints.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kali\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
     "C:\\Users\\kali\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\kali\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\kali\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
